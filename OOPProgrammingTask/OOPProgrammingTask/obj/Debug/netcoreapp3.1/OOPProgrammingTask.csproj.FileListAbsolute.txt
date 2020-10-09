@@ -1,0 +1,15 @@
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.exe
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.deps.json
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.runtimeconfig.json
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.runtimeconfig.dev.json
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.dll
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\bin\Debug\netcoreapp3.1\OOPProgrammingTask.pdb
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.csprojAssemblyReference.cache
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.csproj.CoreCompileInputs.cache
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.AssemblyInfoInputs.cache
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.AssemblyInfo.cs
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.dll
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.pdb
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.genruntimeconfig.cache
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.Properties.Resources.resources
+C:\Users\Batmani\source\repos\OOPProgrammingTask\OOPProgrammingTask\obj\Debug\netcoreapp3.1\OOPProgrammingTask.csproj.GenerateResource.cache
